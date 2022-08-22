@@ -1,2 +1,2 @@
 # Escape-the-cube
-YOU NEED TO ESCAPE!!!
+Casual game abour cube that should escape from another cube.
